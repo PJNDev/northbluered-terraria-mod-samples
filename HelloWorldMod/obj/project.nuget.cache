@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qIMDID4mhKmGxRCkFDU7uzRS2mBoW9UMQBwfk785Q6wBSFGvUppkZ1hi0MMJE5aYS+g7f4YVcEjUr90LejPO4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PJN\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\HelloWorldMod\\HelloWorldMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PJN\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

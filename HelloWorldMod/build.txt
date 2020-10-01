@@ -1,0 +1,3 @@
+displayName = Hello World Mod
+author = NorthBlueRed
+version = 0.1
